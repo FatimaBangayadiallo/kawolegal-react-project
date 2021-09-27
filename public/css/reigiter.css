@@ -1,0 +1,36 @@
+.contenaire-de-registration {
+    margin-top: 2rem;
+}
+
+.form-ligne {
+    margin-top: 2rem;
+}
+
+.foot-register {
+    margin-top: 2rem;
+}
+
+.regis-table-hover {
+    border: 2px solid firebrick;
+}
+
+
+/* .section-entrer {
+    width: 100%;
+} */
+
+
+/* footer section */
+
+footer {
+    display: flex;
+    background-color: firebrick;
+    padding: 1.5rem;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.les-links {
+    display: flex;
+    align-items: space-between;
+}

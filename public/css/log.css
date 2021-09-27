@@ -1,0 +1,21 @@
+.foot-login {
+    margin-top: 12.5rem;
+}
+
+.log-table-hover {
+    border: 2px solid firebrick;
+}
+
+footer {
+    margin-top: 4rem;
+    display: flex;
+    background-color: firebrick;
+    padding: 1.5rem;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.les-links {
+    display: flex;
+    align-items: space-between;
+}

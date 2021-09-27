@@ -1,0 +1,106 @@
+body {
+    background-color: whitesmoke;
+}
+
+.nvg {
+    background-image: url("https://www.ygfconcierge.com/wp-content/uploads/2016/02/home-page-background-2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.overlay-start {
+    background-color: #ff000030;
+}
+
+.start-hover-border {
+    border: 2px solid firebrick;
+}
+
+
+/* recherche section */
+
+.entrer {
+    width: 100%;
+}
+
+.recherche-section {
+    margin-top: 2rem;
+}
+
+.bouttone {
+    position: absolute;
+    left: -16px;
+    background-color: lightblue;
+    color: white;
+}
+
+
+/* end off recherche section */
+
+
+/* content section */
+
+.content-contenaire-1 {
+    margin-top: 2rem;
+}
+
+
+/* ligne-1 */
+
+.image-enfant-1 {
+    height: 140px;
+}
+
+.enfant-2 {}
+
+.but-information-1 {
+    background-color: #fff;
+    color: rgb(26, 25, 25);
+    border: 1px solid black;
+}
+
+
+/* end ligne1 */
+
+
+/* ligne-2 */
+
+.ligne-2 {
+    margin-top: 2rem;
+}
+
+
+/* end of ligne2 */
+
+
+/* ligne 3*/
+
+.ligne-3 {
+    margin-top: 2rem;
+}
+
+.image-enfant-1-row-3 {
+    height: 70px;
+}
+
+
+/* end off ligne 3 */
+
+
+/* end of content section */
+
+
+/* footer section */
+
+footer {
+    display: flex;
+    background-color: firebrick;
+    padding: 1.5rem;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.les-links {
+    display: flex;
+    align-items: space-between;
+}
